@@ -103,7 +103,7 @@ const Products = () => {
                   </div>
                   <div className="buttons-container">
                     <Link to="/product" state={product} className="flex-grow"><button className="btn btn-primary w-full">Buy Now</button></Link>
-                    <a href="tel:+254739183806" className="btn btn-secondary">Enquire</a>
+                    <a href="tel:+254762801974" className="btn btn-secondary">Enquire</a>
                   </div>
                 </div>
               ))}
@@ -146,7 +146,7 @@ const Products = () => {
                   </div>
                   <div className="buttons-container">
                     <Link to="/product" state={product} className="flex-grow"><button className="btn btn-primary w-full">Buy Now</button></Link>
-                    <a href="tel:+254739183806" className="btn btn-secondary">Enquire</a>
+                    <a href="tel:+254762801974" className="btn btn-secondary">Enquire</a>
                   </div>
                 </div>
               ))}
@@ -159,14 +159,14 @@ const Products = () => {
             <div className="space-y-4">
               <div>
                 <p className="text-lg font-semibold">CALL</p>
-                <p className="text-xl">+254739183806</p>
+                <p className="text-xl">+254762801974</p>
               </div>
               <div>
                 <p className="text-lg font-semibold">WhatsApp</p>
-                <p className="text-xl">+254739183806</p>
+                <p className="text-xl">+254762801974</p>
               </div>
               <div className="flex flex-col sm:flex-row justify-center gap-4 mt-6 w-full max-w-xs mx-auto">
-                <a href="tel:+254739183806" className="w-full">
+                <a href="tel:+254762801974" className="w-full">
                   <Button 
                     variant="blue-outline" 
                     className="border-white text-white hover:bg-white hover:text-primary w-full"

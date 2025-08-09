@@ -62,7 +62,7 @@ const ProductDetails = () => {
                   Order via WhatsApp
                 </Button>
               </a>
-              <a href="tel:+254739183806" className="w-full">
+              <a href="tel:+254762801974" className="w-full">
                 <Button className="w-full bg-primary hover:bg-primary/90 text-white py-3">
                   Call to Order
                 </Button>

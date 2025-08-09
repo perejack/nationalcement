@@ -94,7 +94,7 @@ const ProductsSection = () => {
                     </div>
                     <div className="buttons-container">
                       <Link to="/product" state={product} className="flex-grow"><button className="btn btn-primary w-full">Buy Now</button></Link>
-                      <a href="tel:+254739183806" className="btn btn-secondary">Enquire</a>
+                      <a href="tel:+254762801974" className="btn btn-secondary">Enquire</a>
                     </div>
                   </div>
                 ))}
@@ -146,7 +146,7 @@ const ProductsSection = () => {
                     </div>
                     <div className="buttons-container">
                       <Link to="/product" state={product} className="flex-grow"><button className="btn btn-primary w-full">Buy Now</button></Link>
-                      <a href="tel:+254739183806" className="btn btn-secondary">Enquire</a>
+                      <a href="tel:+254762801974" className="btn btn-secondary">Enquire</a>
                     </div>
                   </div>
                 ))}
