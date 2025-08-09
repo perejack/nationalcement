@@ -57,7 +57,7 @@ const ProductDetails = () => {
             </ul>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="https://wa.me/254753962332" target="_blank" rel="noopener noreferrer" className="w-full">
+              <a href="https://wa.me/254762801974" target="_blank" rel="noopener noreferrer" className="w-full">
                 <Button className="w-full bg-green-600 hover:bg-green-700 text-white py-3">
                   Order via WhatsApp
                 </Button>

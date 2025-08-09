@@ -174,7 +174,7 @@ const Products = () => {
                     Call Now
                   </Button>
                 </a>
-                <a href="https://wa.me/254753962332" target="_blank" rel="noopener noreferrer" className="w-full">
+                <a href="https://wa.me/254762801974" target="_blank" rel="noopener noreferrer" className="w-full">
                   <Button 
                     variant="blue-outline"
                     className="border-white text-white hover:bg-white hover:text-primary w-full"
